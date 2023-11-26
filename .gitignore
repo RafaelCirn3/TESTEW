@@ -1,5 +1,5 @@
 /node_modules
-/package-lock.json
 /dist
-/server.ts
-/server.js
+package-lock.json
+/src/server.ts
+/src/server.js
